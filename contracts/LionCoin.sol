@@ -9,8 +9,7 @@ contract LionToken is ERC20{
     //Call ERC 20 token constractore
     constructor(string memory _name, string memory _symbol) ERC20(_name, _symbol){
 
-        // _name = "LionCoin";
-        // _symbol = "LION";
+ 
         //Get som tokens ourselves
         // msg.send => apreson who deploye the contract
         //Solidity is not support floating poing numbers

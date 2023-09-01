@@ -528,11 +528,11 @@
 	},
 	"sources": {
 		"contracts/LionCoin.sol": {
-			"keccak256": "0x97e95e34a5d3b4546b3ad349150940ce009863a9db354cee05c96e2720949be6",
+			"keccak256": "0xc6e12f17ac938347ce26fc16285835ca5f8def1b0b0de6d6a79fcae60795927b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b6293693d284c9474590de99692ed2f7e5d879d97b7a86f566222a9ae4aaf91d",
-				"dweb:/ipfs/QmNbnG788tmGMxHGPrEeDxT4i9C8rEPzN893krPpVboKiE"
+				"bzz-raw://83f21b81e517022822d6587997d84ff5d0e53c72ed3c16f3b96fe645650def56",
+				"dweb:/ipfs/QmVbeM4hxByFfwgB86R5fLWL23XavWUfMeNak87xj1yewT"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/interfaces/draft-IERC6093.sol": {
