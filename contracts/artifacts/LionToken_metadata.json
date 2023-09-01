@@ -308,19 +308,6 @@
 			},
 			{
 				"inputs": [],
-				"name": "n",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
 				"name": "name",
 				"outputs": [
 					{
@@ -541,11 +528,11 @@
 	},
 	"sources": {
 		"contracts/LionCoin.sol": {
-			"keccak256": "0x0ca0cf0b4761f05b9b4e0ccf7808db9b04c414606f7fb7a67b91ef710bdc42b3",
+			"keccak256": "0x97e95e34a5d3b4546b3ad349150940ce009863a9db354cee05c96e2720949be6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2d07eaa7637cb353f4405640441e5195d9c805e0aa38f15d797f25d086890306",
-				"dweb:/ipfs/QmefSywpTNkoUHe44czh3vqRZH9n4Bz83qCD5ucz53bun3"
+				"bzz-raw://b6293693d284c9474590de99692ed2f7e5d879d97b7a86f566222a9ae4aaf91d",
+				"dweb:/ipfs/QmNbnG788tmGMxHGPrEeDxT4i9C8rEPzN893krPpVboKiE"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/interfaces/draft-IERC6093.sol": {
